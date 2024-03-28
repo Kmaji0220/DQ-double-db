@@ -1,4 +1,4 @@
-# Kanged From @TroJanZheX
+# 😇 Fufu
 import asyncio
 import re
 import ast
